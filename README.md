@@ -1,4 +1,4 @@
-####### XenonStack
+# XenonStack
 For technical task 1 and 2
 
 # `Task1 Linux`
